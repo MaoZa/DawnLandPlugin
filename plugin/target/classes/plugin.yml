@@ -1,0 +1,23 @@
+name: DawnLandPlugin
+version: 0.0.1
+description: 黎明大陆插件
+main: cn.dawnland.plugin.DawnLandMain
+
+commands:
+  dawnland:
+    description: 欢迎使用DawnLandPlugin ver：0.0.1
+    usage: |
+      /<command> - 需玩家执行
+  conn:
+    description: conn
+    usage: |
+      /<command> - conn
+  login:
+    description: 黎明大陆中心登录
+    usage: |
+        /<command> - 黎明大陆中心登录
+
+permissions:
+#  vault.admin:
+#    description: Notifies the player when vault is in need of an update.
+#    default: op
