@@ -1,4 +1,4 @@
-package cn.dawnland.plugin.Listener;
+package cn.dawnland.plugin.listener;
 
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
