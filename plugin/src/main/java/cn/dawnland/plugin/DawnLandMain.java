@@ -1,7 +1,7 @@
 package cn.dawnland.plugin;
 
-import cn.dawnland.plugin.Listener.LoginListener;
-import cn.dawnland.plugin.Listener.MainListener;
+import cn.dawnland.plugin.listener.LoginListener;
+import cn.dawnland.plugin.listener.MainListener;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;

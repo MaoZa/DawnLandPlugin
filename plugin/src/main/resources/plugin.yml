@@ -16,7 +16,18 @@ commands:
     description: 黎明大陆中心登录
     usage: |
         /<command> - 黎明大陆中心登录
-
+  findUUID:
+    description: 玩家名查UUID
+    usage: |
+      /<command> - 需玩家执行
+  findName:
+    description: UUID查玩家名
+    usage: |
+      /<command> - 需玩家执行
+  score:
+    description: 查询积分
+    usage: |
+      /<command> - 需玩家执行
 permissions:
 #  vault.admin:
 #    description: Notifies the player when vault is in need of an update.
